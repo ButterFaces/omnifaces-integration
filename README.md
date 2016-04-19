@@ -1,6 +1,6 @@
 # ButterFaces - OmniFaces integration
 
-IN WORK!
+Simple example to combine OmniFaces and ButterFaces. It shows the usage of o:socket.
 
 # Getting started
 
